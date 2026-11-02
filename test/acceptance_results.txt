@@ -1,0 +1,9 @@
+[PASS] counts: 6 puzzles, sizes 4/5/6 ([4, 5, 6, 4, 5, 6])
+[PASS] cages partition the grid and are all contiguous 
+[PASS] every cage target is arithmetically true of the solution 
+[PASS] every puzzle: exactly one solution (independent cage-wise recount), equal to printed solution 
+[PASS] PDF 612x792pt, 14 pages (14)
+[PASS] 6-puzzle mixed book builds in under 180s (0.3s)
+[PASS] deterministic for fixed seed 
+
+7/7 PASS
